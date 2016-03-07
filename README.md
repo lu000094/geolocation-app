@@ -4,7 +4,7 @@ A simple app that will fetch the current location of the user and will display i
 **Note:** Geolocation App uses HTML5 Geolocation API to get the geographical position of the user. For privacy reasons, the position data is not available unless the user grants the permission to share it when being prompted. 
 
 ##Getting started
-* Download the [`zip` archive](https://github.com/lu000094/geolocation-apps/archive/master.zip)
+* Download the [`zip` archive](https://github.com/lu000094/geolocation-app/archive/master.zip)
 * Extract the archive and open the `index.html` with your favourite browser
 
 `index.html` contains link to Geolocation App CSS file and JS files
