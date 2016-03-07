@@ -1,0 +1,24 @@
+/**
+* CSS Style
+*
+* @version v1.0
+*/
+
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #fff;
+    color: #333;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857;
+}
+.error-panel{ 
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    color: #a94442;
+    border: 1px solid #ebccd1;
+    color: #a94442;
+    padding: 10px;
+    margin: 20px;
+}
